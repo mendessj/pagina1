@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## MEDITAÇÕES TERESIANAS
 
-You can use the [editor on GitHub](https://github.com/mendessj/pagina1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Em busca da intimidade com Deus e com nosso próprio interior.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### 1. Invocação trinitária
+
+
+Em nome do Pai, e do Filho e do Espírito Santo.
+Amém!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
